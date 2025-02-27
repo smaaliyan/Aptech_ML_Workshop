@@ -1,7 +1,7 @@
 # Hands-on Machine Learning: Train Your First Model
 
 ## Overview
-This repository contains materials from the **"Hands-on Machine Learning: Train Your First Model"** workshop. The workshop was designed to introduce participants to the fundamentals of Machine Learning (ML), focusing on model training using the Titanic dataset. This workshop was conducted by **Syed M. Aaliyan Tarique** at **Aptech North Nazimabad Campus**.
+This repository contains materials from the **"Hands-on Machine Learning: Train Your First Model"** workshop. The workshop was designed to introduce participants to the fundamentals of Machine Learning (ML), focusing on model training using the Titanic dataset. This workshop was conducted by **[Syed M. Aaliyan Tarique](https://github.com/smaaliyan)** at **Aptech North Nazimabad Campus**.
 
 ## Objectives
 - Introduction to Machine Learning and its types
@@ -45,7 +45,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ### Running the Notebook
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ml-workshop.git
+   git clone https://github.com/smaaliyan/ml-workshop.git
    ```
 2. Navigate to the project folder:
    ```bash
